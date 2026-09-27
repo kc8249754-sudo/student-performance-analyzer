@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": "101",
+        "name": "krish",
+        "python_marks": 99.0,
+        "mathematics_marks": 99.0,
+        "aiml_marks": 99.0
+    },
+    {
+        "student_id": "102",
+        "name": "raj",
+        "python_marks": 78.0,
+        "mathematics_marks": 88.0,
+        "aiml_marks": 99.0
+    }
+]
